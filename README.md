@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Login-Register
 
-## Getting Started
+first page : regsiter page
+this page contain three fields the first one is your email then password and confirm password fields.
+this page provide register service for clients .
 
-First, run the development server:
+if any client want to regsiter in our application he/she has to fill her/his information (email) and (password) then hit create account.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![Screenshot 2023-09-23 163913](https://github.com/Laith-Alzbaidy/Login-Register/assets/127303429/3a890e0b-a5e6-4733-8ef6-607b555dc2bd)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+If anyone clicks on Create Account without filling out the fields correctly, they will get a message warning.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+![Screenshot 2023-09-23 163646](https://github.com/Laith-Alzbaidy/Login-Register/assets/127303429/83e2f878-d537-4f52-8590-f198f3924ac5)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+second page : login page
+
+by this page you can login to my application by using email and password that you have already registered before.
+
+
+
+![Screenshot 2023-09-23 163126](https://github.com/Laith-Alzbaidy/Login-Register/assets/127303429/ebee541b-43eb-45d8-835b-bd155da068c9)
+
+
+
+If anyone clicks on login button without filling out the fields correctly, they will get a message warning.
+
+
+
+![Screenshot 2023-09-23 163628](https://github.com/Laith-Alzbaidy/Login-Register/assets/127303429/6492bb35-ed64-4003-9525-ddd22adc9e6c)
+
+
+third page: profile page
+
+After you logged in by using your email and password you will get the profile page.
+
+
+![Screenshot 2023-09-23 163713](https://github.com/Laith-Alzbaidy/Login-Register/assets/127303429/d146505b-7806-4d04-bf68-efa328a7bb8a)
