@@ -8,7 +8,8 @@ if any client want to regsiter in our application he/she has to fill her/his inf
 
 
 
-![Screenshot 2023-09-23 163913](https://github.com/Laith-Alzbaidy/Login-Register/assets/127303429/3a890e0b-a5e6-4733-8ef6-607b555dc2bd)
+![Screenshot 2023-09-23 163913](https://github.com/Laith-Alzbaidy/Login-Register/assets/127303429/54b99752-abb9-4bb5-bdc7-0ad4eacc7ae1)
+
 
 
 
@@ -16,7 +17,9 @@ If anyone clicks on Create Account without filling out the fields correctly, the
 
 
 
-![Screenshot 2023-09-23 163646](https://github.com/Laith-Alzbaidy/Login-Register/assets/127303429/83e2f878-d537-4f52-8590-f198f3924ac5)
+
+![Screenshot 2023-09-23 163646](https://github.com/Laith-Alzbaidy/Login-Register/assets/127303429/dc03e2d1-85b6-4c63-8932-23a8937a908b)
+
 
 
 
@@ -26,7 +29,9 @@ by this page you can login to my application by using email and password that yo
 
 
 
-![Screenshot 2023-09-23 163126](https://github.com/Laith-Alzbaidy/Login-Register/assets/127303429/ebee541b-43eb-45d8-835b-bd155da068c9)
+
+![Screenshot 2023-09-23 163126](https://github.com/Laith-Alzbaidy/Login-Register/assets/127303429/e3637237-5f0e-4fc5-8d66-4fd6391297f8)
+
 
 
 
@@ -34,7 +39,8 @@ If anyone clicks on login button without filling out the fields correctly, they 
 
 
 
-![Screenshot 2023-09-23 163628](https://github.com/Laith-Alzbaidy/Login-Register/assets/127303429/6492bb35-ed64-4003-9525-ddd22adc9e6c)
+![Screenshot 2023-09-23 163628](https://github.com/Laith-Alzbaidy/Login-Register/assets/127303429/ea1c37f1-efd6-44ed-9a4f-a5bc065feb1e)
+
 
 
 third page: profile page
@@ -42,4 +48,7 @@ third page: profile page
 After you logged in by using your email and password you will get the profile page.
 
 
-![Screenshot 2023-09-23 163713](https://github.com/Laith-Alzbaidy/Login-Register/assets/127303429/d146505b-7806-4d04-bf68-efa328a7bb8a)
+
+![Screenshot 2023-09-23 163713](https://github.com/Laith-Alzbaidy/Login-Register/assets/127303429/2282a7a3-096a-4d07-a777-3ad2a202eeb8)
+
+
